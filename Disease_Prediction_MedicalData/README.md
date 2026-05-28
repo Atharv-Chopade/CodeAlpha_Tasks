@@ -1,22 +1,22 @@
-# Disease Prediction from Medical Data
+# Disease Prediction System
 
-## 📌 Objective
+## Project Overview
 
-This project predicts diseases using Machine Learning algorithms trained on medical datasets.
+This project predicts diseases using Machine Learning algorithms trained on medical datasets. The system analyzes clinical data and uses classification techniques to make predictions.
 
 ---
 
-## 🚀 Features
+# Features
 
 * Medical dataset preprocessing
-* Multiple ML classification models
-* Data visualization
-* Performance comparison
-* Prediction system
+* Data analysis and visualization
+* Multiple Machine Learning models
+* Disease prediction pipeline
+* Model evaluation and comparison
 
 ---
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 * Python
 * Pandas
@@ -27,39 +27,52 @@ This project predicts diseases using Machine Learning algorithms trained on medi
 
 ---
 
-## ▶️ How to Run
-
-Install dependencies:
-
-```bash id="7o3kdm"
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
-
-Run the notebook:
-
-```bash id="v58p0d"
-jupyter notebook
-```
-
-Open `Task4.ipynb`.
-
----
-
-## 📁 Files
-
-* `Task4.ipynb` → Disease prediction implementation
-
----
-
-## 📊 Machine Learning Concepts
+# Machine Learning Concepts Used
 
 * Classification
 * Data preprocessing
-* Model evaluation
 * Feature analysis
+* Model evaluation
 
 ---
 
-## 👨‍💻 Author
+# Installation
 
-Atharv Chopde
+Install the required libraries:
+
+```bash id="3f2zxu"
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
+
+---
+
+# How to Run
+
+Launch Jupyter Notebook:
+
+```bash id="7p5cqe"
+jupyter notebook
+```
+
+Open the notebook file:
+
+```bash id="m1x8tr"
+Task4.ipynb
+```
+
+---
+
+# Project Structure
+
+```bash id="4n6zdk"
+Task4/
+│
+├── Task4.ipynb
+└── README.md
+```
+
+---
+
+# Author
+
+Atharv Chopade
