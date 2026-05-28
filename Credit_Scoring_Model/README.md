@@ -1,24 +1,31 @@
 # Credit Scoring Model
 
-## 📌 Objective
+## Project Overview
 
-This project predicts an individual's creditworthiness using Machine Learning models based on financial and behavioral data.
+This project focuses on predicting an individual's creditworthiness using Machine Learning techniques. Different classification algorithms are used to analyze financial and behavioral data and determine whether a person is likely to be creditworthy.
 
 ---
 
-## 🚀 Features
+# Features
 
-* Data preprocessing
+* Data preprocessing and cleaning
 * Feature engineering
 * Synthetic dataset generation
+* Multiple Machine Learning models
+* Model performance evaluation
+* Data visualization
+
+---
+
+# Algorithms Used
+
 * Logistic Regression
 * Decision Tree Classifier
 * Random Forest Classifier
-* Model performance evaluation
 
 ---
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 * Python
 * Pandas
@@ -29,7 +36,7 @@ This project predicts an individual's creditworthiness using Machine Learning mo
 
 ---
 
-## 📊 Evaluation Metrics
+# Evaluation Metrics
 
 * Accuracy
 * Precision
@@ -39,30 +46,43 @@ This project predicts an individual's creditworthiness using Machine Learning mo
 
 ---
 
-## ▶️ How to Run
+# Installation
 
-Install dependencies:
+Install the required libraries:
 
-```bash id="5nyn7v"
+```bash id="jv3w91"
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
-Run the notebook:
+---
 
-```bash id="s4sgr1"
+# How to Run
+
+Launch Jupyter Notebook:
+
+```bash id="h0r2dn"
 jupyter notebook
 ```
 
-Open `Task1.ipynb`.
+Open the notebook file:
+
+```bash id="2y7wqa"
+Task1.ipynb
+```
 
 ---
 
-## 📁 Files
+# Project Structure
 
-* `Task1.ipynb` → Main notebook implementation
+```bash id="6x0fkm"
+Task1/
+│
+├── Task1.ipynb
+└── README.md
+```
 
 ---
 
-## 👨‍💻 Author
+# Author
 
-Atharv Chopde
+Atharv Chopade
