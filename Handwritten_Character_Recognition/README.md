@@ -1,22 +1,23 @@
 # Handwritten Character Recognition
 
-## 📌 Objective
+## Project Overview
 
-This project recognizes handwritten digits and characters using Deep Learning techniques.
+This project implements a Deep Learning model for recognizing handwritten digits and characters using Convolutional Neural Networks (CNNs). The system is trained using image datasets such as EMNIST or MNIST.
 
 ---
 
-## 🚀 Features
+# Features
 
-* Convolutional Neural Network (CNN)
 * Image preprocessing
-* EMNIST/MNIST dataset support
-* Model training and evaluation
+* Convolutional Neural Network implementation
+* Character and digit recognition
+* Training and evaluation pipeline
 * Prediction visualization
+* Dataset loading and handling
 
 ---
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 * Python
 * PyTorch
@@ -26,36 +27,51 @@ This project recognizes handwritten digits and characters using Deep Learning te
 
 ---
 
-## ▶️ How to Run
+# Deep Learning Concepts Used
 
-Install dependencies:
+* Convolutional Neural Networks (CNN)
+* Image classification
+* Model training and evaluation
 
-```bash id="9h2y3z"
+---
+
+# Installation
+
+Install the required libraries:
+
+```bash id="f7m4pa"
 pip install torch torchvision matplotlib seaborn numpy
 ```
 
-Run the notebook:
+---
 
-```bash id="lbm3xg"
+# How to Run
+
+Launch Jupyter Notebook:
+
+```bash id="7z4mty"
 jupyter notebook
 ```
 
-Open `Task2.ipynb`.
+Open the notebook file:
+
+```bash id="j1o6lp"
+Task2.ipynb
+```
 
 ---
 
-## 📁 Files
+# Project Structure
 
-* `Task2.ipynb` → CNN model implementation
+```bash id="5m2cfr"
+Task2/
+│
+├── Task2.ipynb
+└── README.md
+```
 
 ---
 
-## 📊 Model Used
+# Author
 
-* Convolutional Neural Network (CNN)
-
----
-
-## 👨‍💻 Author
-
-Atharv Chopde
+Atharv Chopade
